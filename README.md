@@ -4,7 +4,7 @@ A Python tool that extracts author affiliations from recent computer science pap
 
 ## Features
 
-- Fetches papers from all CS categories published in the last 3 days
+- Fetches papers from all CS categories published at the latest date of publication
 - Downloads and parses the first page of each paper's PDF
 - Uses Google's Gemini AI to extract unique author affiliations
 - Outputs results to `papers.json`
